@@ -1,0 +1,10 @@
+name: Catha
+version: '${version}'
+main: cz.xrosecky.catha.Catha
+api-version: 1.18
+authors: [ xrosecky ]
+website: https://xrosecky.cz/
+
+commands:
+  test:
+    description: "Main command"
