@@ -1,8 +1,7 @@
-name: '${name}'
+name: Catha
 version: '${version}'
-description: '${description}'
 main: cz.xrosecky.catha.Catha
-api-version: '${apiVersion}'
+api-version: 1.18
 authors: [ xrosecky ]
 website: https://xrosecky.cz/
 
